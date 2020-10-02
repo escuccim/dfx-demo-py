@@ -126,6 +126,9 @@ python dfxdemo.py study select <study_id>
 
 ### Measurements
 
+Please download and unzip http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 into 'dfxutils/res' folder
+
+
 Make a measurement from a video using the selected study
 
    ```shell
